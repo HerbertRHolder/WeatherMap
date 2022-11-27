@@ -41,4 +41,10 @@ ul li:nth-child(1) {
   padding-bottom: 1rem;
 }
 
+#map {
+  /* the width and height may be set to any size */
+  width: 70%;
+  height: 350px;
+}
+
 /*# sourceMappingURL=style.css.map */
