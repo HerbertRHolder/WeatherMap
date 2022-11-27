@@ -1,2 +1,2 @@
-const WEATHER_TOKEN = "2fb6ec83bf967fb1ad0e1b9b77f937aa";
+const WEATHER_TOKEN = "1aab9dc82cfd8e1c40b0d786248089c6";
 const MAPBOX_TOKEN = "pk.eyJ1IjoiaGVyYmVydGhvbGRlciIsImEiOiJjbGFxeHc5ZDMxMWg5M3duejFocGZiajJsIn0.5FVGVcHcEaMu817xG0Dw2w"
