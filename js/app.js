@@ -43,6 +43,7 @@ function coordinatesToWeather(long, lat){
        for (let i = 0;i < degrees.length;i++){
         time[i].innerHTML = `<h2>${data.list[i].dt_txt}</h2>`
         degrees[i].innerHTML = `${data.list[i].main.temp}˚F / ${data.list[i].main.temp_max}˚F `
+        // need to fix icon, read docs
         img[i].innerHTML = `icon: ${data.list[i].weather[0].icon}`
         description[i].innerHTML  = `Description: ${data.list[i].weather[0].description}`
         wind[i].innerHTML = `Wind: ${data.list[i].wind.speed} mph`
